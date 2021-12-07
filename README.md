@@ -20,4 +20,4 @@ It's nothing fancy, but if you've got some CDP1854s sitting around and
 a burning desire to see if they work, this program and schematic will
 get you started.
 
-![1854 UART tester schematic](1854_UART_tester.jpg "1854 UART tester schematic")
+![1854 UART tester schematic](1854_UART_tester.png "1854 UART tester schematic")
